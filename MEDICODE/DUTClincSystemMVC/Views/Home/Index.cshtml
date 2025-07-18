@@ -1,0 +1,147 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Dut Medical Clinic</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+            color: #4b0082; /* Dark purple */
+        }
+
+        .animated {
+            transition: opacity 0.5s, transform 0.5s;
+            opacity: 0;
+            transform: translateY(50px);
+        }
+
+        .welcome-section {
+            text-align: center;
+            padding: 100px 20px;
+        }
+
+            .welcome-section h2 {
+                font-size: 36px;
+                margin-bottom: 20px;
+            }
+
+            .welcome-section p {
+                font-size: 18px;
+                margin-bottom: 40px;
+            }
+
+        .scroll-down {
+            margin-top: 20px;
+        }
+
+            .scroll-down a {
+                color: #4b0082;
+                text-decoration: none;
+                font-size: 24px;
+            }
+
+        .services-section {
+            text-align: left;
+            padding: 100px 20px;
+            background-color: #ffffff;
+            color: #4b0082; /* Dark purple */
+        }
+
+            .services-section h2 {
+                margin-bottom: 20px;
+            }
+
+            .services-section ul {
+                list-style-type: disc;
+                margin-left: 20px;
+            }
+
+        .footer {
+            background-color: #9370DB; /* Lilac */
+            color: #ffffff;
+            text-align: center;
+            padding: 50px 20px;
+        }
+
+            .footer a {
+                color: #ffffff;
+                text-decoration: none;
+                margin: 0 10px;
+            }
+
+            .footer i {
+                margin-right: 5px;
+            }
+    </style>
+</head>
+<body>
+    <div class="welcome-section animated">
+        <h2>Welcome to Dut Medical Clinic</h2>
+        <p>Our aim is to make health and wellness a culture and/or a lifestyle among our student population. Our vision is to provide free primary healthcare aimed at preventive, promotive and curative healthcare for students. We try to provide a holistic healthcare service that assists students to reach their maximum potential in all areas of life.</p>
+        <p>We, therefore, direct our efforts holistically to be in line with the World Health Organisation (WHO) and within the regulations of the South African Nursing Council. Acknowledging that these areas of life are interrelated, we seek to promote a multidisciplinary approach in the provision of healthcare services within our university. We also take cognisance of the external factors that influence health, namely, the environmental and economic factors.</p>
+        <div class="scroll-down">
+            <a href="#services"><i class="fas fa-chevron-down"></i> Scroll down to explore our services</a>
+        </div>
+    </div>
+
+    <div class="services-section" id="services">
+        <h2>Services Offered</h2>
+        <ul>
+            <li>Treatment for minor ailments, e.g. cough and colds</li>
+            <li>Treatment for sexually transmitted infections</li>
+            <li>
+                All contraceptives including:
+                <ul>
+                    <li>Male and female condoms</li>
+                    <li>Emergency contraceptives (morning after pill)</li>
+                    <li>Implanon</li>
+                </ul>
+            </li>
+            <li>Emergency care, including rape management and needle stick injuries, epilepsy and asthma</li>
+            <li>Pap smears</li>
+            <li>A support system for long-term treatment</li>
+            <li>Wellness clinic</li>
+            <li>Tuberculosis management</li>
+            <li>A medical doctor is available for two hours daily</li>
+            <li>Health information and dissemination</li>
+            <li>Immunisation</li>
+            <li>Referrals to and from clinics (internally and externally)</li>
+            <li>HIV testing service, including provider-initiated counselling and testing (PICT)</li>
+            <li>Pre-exposure Prophylaxis (PrEP) to prevent HIV</li>
+            <li>Post-exposure Prophylaxis (PEP) for rape or needle stick injuries</li>
+            <li>Anti-retroviral treatment (ART) initiation for HIV-positive students</li>
+            <li>COVID-19 assessment, management and referral including COVID-19 PCR testing on campus, where indicated. Limited isolation facility on Durban campuses.</li>
+        </ul>
+    </div>
+
+    <div class="footer">
+        <p>Contact Us:</p>
+        <a href="tel:0313732000"><i class="fas fa-phone"></i>031 373 2000 (DBN)</a>
+        <a href="tel:0338458800"><i class="fas fa-phone"></i>033 845 8800 (PMB)</a>
+        <a href="mailto:info@dut.ac.za"><i class="fas fa-envelope"></i>info@dut.ac.za</a>
+        <p>P O Box 1334, Durban 4000</p>
+    </div>
+
+    <!-- Font Awesome -->
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var welcomeSection = document.querySelector('.welcome-section');
+            welcomeSection.classList.add('fadeInUp');
+            welcomeSection.style.opacity = 1;
+            welcomeSection.style.transform = 'translateY(0)';
+        });
+    </script>
+</body>
+</html>
+
+

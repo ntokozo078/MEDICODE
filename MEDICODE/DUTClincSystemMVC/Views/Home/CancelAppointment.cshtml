@@ -1,0 +1,109 @@
+﻿@model DUTClincSystemMVC.Models.StudentAppointment
+
+@{
+    ViewBag.Title = "Cancel Appointment";
+}
+
+<style>
+    /* Adjust styles for better alignment and appearance */
+    h3 {
+        text-align: center;
+        font-size: 24px;
+        margin-top: 20px;
+    }
+
+    .btn-cancel {
+        background-color: #e74c3c; /* Red color */
+        color: #fff; /* White text color */
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-cancel:hover {
+            background-color: #c0392b; /* Darker shade of red on hover */
+        }
+
+    .btn-purple {
+        background-color: #b09ae6; /* Lilac color */
+        color: #fff; /* White text color */
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        text-decoration: none;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-purple:hover {
+            background-color: #9388c3; /* Darker shade of lilac on hover */
+        }
+
+    .dl-horizontal dt {
+        float: left;
+        clear: left;
+        text-align: right;
+        width: 150px; /* Adjust as needed */
+        margin-right: 10px;
+        font-weight: bold;
+    }
+
+    .dl-horizontal dd {
+        margin-left: 170px; /* Adjust to match dt width */
+    }
+
+    .form-actions {
+        text-align: center;
+        margin-top: 20px;
+    }
+</style>
+
+<h3>Are you sure you want to cancel this?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentNumber)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StudentNumber)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Time)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Time)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Campuses)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Campuses)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Reason)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Reason)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <div class="form-actions no-color">
+            <input type="submit" value="Cancel" class="btn btn-cancel" /> |
+            @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-purple" })
+        </div>
+    }
+</div>
+
+

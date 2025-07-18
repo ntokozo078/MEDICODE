@@ -1,0 +1,103 @@
+﻿@model DUTClincSystemMVC.Models.StudentAppointment
+@{
+    ViewBag.Title = "Book Appointment";
+}
+
+<style>
+    /* Adjust styles for better alignment and appearance */
+    h2 {
+        text-align: center;
+        font-size: 24px;
+        margin-top: 20px;
+    }
+
+    .form-horizontal {
+        margin: auto;
+        width: 50%;
+    }
+
+    .control-label {
+        text-align: right;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    .btn-light {
+        background-color: #b09ae6; /* Lilac color */
+        color: #fff; /* White text color */
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-light:hover {
+            background-color: #9388c3; /* Darker shade of lilac on hover */
+        }
+
+    .text-danger {
+        color: red;
+    }
+</style>
+
+<h2>Make An Appointment</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Date, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Date, new { htmlAttributes = new { @class = "form-control", type = "date" } })
+                @Html.ValidationMessageFor(model => model.Date, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Time, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Time, new { htmlAttributes = new { @class = "form-control", type = "time" } })
+                @Html.ValidationMessageFor(model => model.Time, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Campuses, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EnumDropDownListFor(model => model.Campuses, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Campuses, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Reason, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EnumDropDownListFor(model => model.Reason, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Reason, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <button id="bookButton" class="btn-light"> Book Appointment </button>
+            </div>
+        </div>
+    </div>
+}
+
+<script>
+    document.getElementById("bookButton").addEventListener("click", function() {
+        alert("Appointment successfully booked!");
+    });
+</script>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

@@ -1,0 +1,86 @@
+﻿@model IEnumerable<DUTClincSystemMVC.Models.StudentAppointment>
+
+@{
+    ViewBag.Title = "View Appointments";
+}
+
+<style>
+    table, tr, th, td {
+        border: 2px solid black;
+    }
+
+    .sort-button {
+        background-color: #b09ae6; /* Lilac color */
+        color: #ffffff; /* White text color */
+        border: none;
+        border-radius: 20px; /* Round button */
+        padding: 10px 20px; /* Larger padding */
+        font-size: 18px; /* Larger font size */
+        cursor: pointer;
+        transition: background-color 0.3s ease; /* Smooth transition */
+        margin-top: 20px; /* Add some top margin */
+        margin-bottom: 20px; /* Add some bottom margin */
+        text-decoration: none;
+        display: inline-block;
+    }
+
+        .sort-button:hover {
+            background-color: #927cbd; /* Darker lilac color on hover */
+        }
+</style>
+
+<h2>View Appointments</h2>
+
+<p>
+    
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.AppointmentID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StudentNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Time)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Campuses)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Reason)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AppointmentID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentNumber)
+            </td>
+            <td>
+                @String.Format("{0:MM/dd/yyyy}", item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Time)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Campuses)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Reason)
+            </td>
+        </tr>
+    }
+</table>
+
+
+

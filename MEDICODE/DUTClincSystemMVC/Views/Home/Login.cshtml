@@ -1,0 +1,113 @@
+﻿
+@{
+    ViewBag.Title = "View";
+}
+
+<style>
+    .centered {
+        text-align: center;
+        font-family: Arial, sans-serif; /* Change font-family to match the theme */
+    }
+
+    .title {
+        text-align: center;
+        font-family: Arial, sans-serif; /* Change font-family to match the theme */
+    }
+
+    .caption {
+        text-align: center;
+        font-family: Arial, sans-serif; /* Change font-family to match the theme */
+        font-size: 14px; /* Increase font-size */
+        color: #666666; /* Dark gray color */
+    }
+
+    .flex-container {
+        display: flex;
+        justify-content: space-around;
+        text-align: center;
+        margin-top: 20px; /* Add some top margin */
+    }
+
+    .mini-block {
+        border: 2px solid #b09ae6; /* Lilac outline */
+        padding: 20px; /* Adjust padding */
+        border-radius: 10px;
+        background-color: #ffffff; /* White background */
+        transition: transform 0.3s ease; /* Add smooth transition */
+    }
+
+        .mini-block:hover {
+            transform: translateY(-5px); /* Add hover effect */
+        }
+
+        .mini-block img {
+            border-radius: 50%;
+            height: 150px; /* Reduce image height */
+        }
+
+    a h4 {
+        color: #000000; /* Black color for link text */
+        text-decoration: none;
+        font-family: Arial, sans-serif; /* Change font-family to match the theme */
+        font-size: 16px; /* Increase font-size */
+    }
+
+    h3.login-heading {
+        font-family: "Arial Black", sans-serif; /* Use a bold font */
+        color: #6b63a3; /* Lilac color */
+        text-transform: uppercase; /* Uppercase text */
+        letter-spacing: 2px; /* Add letter spacing */
+        margin-bottom: 20px; /* Add bottom margin */
+        font-size: 24px; /* Increase font size */
+    }
+
+    .signup-link {
+        font-size: 14px; /* Decrease font size */
+        color: #666666; /* Dark gray color */
+    }
+
+    .back-button {
+        background-color: #b09ae6; /* Lilac background color */
+        color: #ffffff; /* White text color */
+        border: none;
+        border-radius: 50%; /* Round button */
+        padding: 10px 20px; /* Padding */
+        font-size: 14px; /* Font size */
+        cursor: pointer;
+        transition: background-color 0.3s ease; /* Smooth transition */
+    }
+
+    .back-button:hover {
+        background-color: #927cbd; /* Darker lilac color on hover */
+    }
+</style>
+
+<h3 class="centered login-heading">Welcome to <span style="color: #6b63a3;">Dut Medical Clinic</span></h3>
+<p class="caption">Please log in to access our services</p>
+
+<div class="flex-container">
+    <a href="/Home/StudentLogin">
+        <div class="mini-block">
+            <img class="icon" src="https://static.wixstatic.com/media/a87f65_7b32f4854f7b485ba712ed05212d79c7~mv2.png/v1/fill/w_281,h_262,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/a87f65_7b32f4854f7b485ba712ed05212d79c7~mv2.png" />
+            <h4>Student</h4>
+        </div>
+    </a>
+
+    <a href="/Home/DoctorLogin">
+        <div class="mini-block">
+            <img class="icon" src="https://guyanamedicalmission.com/wp-content/uploads/2018/04/doctor.jpg" />
+            <h4>Doctor</h4>
+        </div>
+    </a>
+
+    <a href="/Admin/Login">
+        <div class="mini-block">
+            <img src="https://cdn-icons-png.flaticon.com/512/8702/8702087.png" />
+            <h4>Admin</h4>
+        </div>
+    </a>
+</div>
+
+<p class="centered signup-link">Don't have an account? <a href="/Home/StudentSignUp">Sign up</a></p>
+<button class="back-button" onclick="window.history.back()">Back</button>
+

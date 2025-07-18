@@ -1,0 +1,88 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+
+<style>
+    .block{
+        margin-top: 30px;
+    }
+    .hidden-block{
+        width: 100%;
+        display: none;
+        transition-duration: 1s;
+        border: 2px solid black;
+        border-radius: 5px;
+    }
+    .section-button{
+        background-color: lightgray;
+        width: 100%;
+        border-radius: 5px;
+        height: 50px;
+        font-size: 24px;
+        font-weight: 500;
+    }
+    .section-button:hover {
+        background-color: gray;
+    }
+</style>
+
+<h4>About Our Service</h4>
+<div>
+    <div class="block">
+        <button id="overview-btn" class="section-button">Overview</button>
+        <div id="overview-folder" class="hidden-block">
+            <p>
+                Welcome to the Faculty of Health Sciences Health Clinic. This Clinic, enlarged and renovated, was enabled by a grant from the Department of Higher Education and Training. The Clinic affords the opportunity of providing health care services to the greater eThekwini community, whilst at the same time, providing students registered in Health Sciences an opportunity to gain supervised clinical practical training. Our clinic is also available to our immediate community: the students and staff of the Durban University of Technology.
+            </p>
+            <p>
+                The new Clinic complex now houses five different clinic disciplines. These include Chiropractic, Homoeopathy, Somatology, Dental and Radiology Clinics. Prior to this new clinic, the existing building at the time housed only the Chiropractic and Homoeopathy clinics but with noticeably reduced facilities. These original clinics were opened in 1994, by Prof Andre du Preez (the then Rector of the Technikon Natal). Increased demand for student training as well as a public service demand, led to the creation of this new clinic complex which, as previously mentioned, now comprises five different disciplines.
+            </p>
+            <p>
+                Collectively these clinics also form a core of other community outreach programmes offered in Redhill (Durban North), Ukuba Nesibindi (Warrick Triangle community), Kenneth Gardens (Umbilo), Marburg Haven (Marburg / Port Shepstone), Narian Jeawon Vedic Centre Clinic (Avoca Hills). All these extensions of the Faculty of Health Sciences community outreach philosophy provide clinical services to these underserviced communities in and around the greater eThekwini Municipality.
+            </p>
+            <p>
+                The Faculty of Health Sciences clinics are poised to support the vision of the Faculty of Health Sciences, which is to be a leading Faculty in transformative and innovative education for health professionals, guided by national imperatives and a strong commitment to socially responsive education. Our Faculty strives for excellence in professional service and teaching scholarship, and thereby contributes to both service delivery and health sciences research. This is underpinned by a values-driven, student-centred ethos, which is committed to developing quality health professionals that are practice-oriented, receptive and responsive to the health care needs of the people of South Africa, and of Africa as a whole. This is achieved by providing the highest standards of learning, teaching, research, and community engagement, underpinned by a commitment to a creating space for students and staff to succeed.
+            </p>
+        </div>
+    </div>
+
+    <div class="block">
+        <button id="map-btn" class="section-button">DUT Clinic Map</button>
+        <div id="map-folder" class="hidden-block" style="text-align: center;">
+            <img src="https://www.dut.ac.za/wp-content/uploads/2014/10/clinicmap.png" alt="map of DUT campus clinics" />
+        </div>
+
+    </div>
+
+    <div class="block">
+        <button id="location-btn" class="section-button">Locations</button>
+        <div id="location-folder" class="hidden-block">
+            <p>There are four clinics in durban as follows:</p>
+            <ul>
+                <li><b>Isolempilo clinic</b> – Gate 5 opposite sports centre</li>
+                <li><b>City campus</b> – Smith street next to library</li>
+                <li><b>Ritson clinic</b>  – next to Hotel school</li>
+                <li><b>Brickfield clinic</b> – second floor of Brickfield campus.</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<script>
+    let overviewSection = document.getElementById("overview-btn");
+    let mapSection = document.getElementById("map-btn");
+    let locationSection = document.getElementById("location-btn");
+
+    overviewSection.addEventListener("click", function () { changeVisibility("overview-folder"); }, false);
+    mapSection.addEventListener("click", function () { changeVisibility("map-folder"); }, false);
+    locationSection.addEventListener("click", function () { changeVisibility("location-folder"); }, false);
+
+    let changeVisibility = (id) => {
+        let element = document.getElementById(id);
+        if (element.style.display == "none") {
+            element.style.display = "block";
+        } else {
+            element.style.display = "none";
+        }
+    }
+</script>

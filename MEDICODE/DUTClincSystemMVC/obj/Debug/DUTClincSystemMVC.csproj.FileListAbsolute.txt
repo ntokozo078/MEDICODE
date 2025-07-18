@@ -1,0 +1,415 @@
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\DUTClincSystemMVC.dll.config
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\DUTClincSystemMVC.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\DUTClincSystemMVC.pdb
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\csc.exe
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\csc.exe.config
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\csc.rsp
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\csi.exe
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\csi.exe.config
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\csi.rsp
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.AppContext.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.Console.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\vbc.exe
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\vbc.exe.config
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\vbc.rsp
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\Antlr3.Runtime.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\Newtonsoft.Json.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\System.Web.Helpers.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\System.Web.Mvc.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\System.Web.Optimization.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\System.Web.Razor.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\System.Web.WebPages.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\WebGrease.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\System.Web.Helpers.xml
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\System.Web.Mvc.xml
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\System.Web.Optimization.xml
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\System.Web.Razor.xml
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\System.Web.WebPages.xml
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\Newtonsoft.Json.xml
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\Antlr3.Runtime.pdb
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\obj\Debug\DUTClincSystemMVC.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\obj\Debug\DUTClincSystemMVC.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\obj\Debug\DUTClinc.D3C313FE.Up2Date
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\obj\Debug\DUTClincSystemMVC.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\obj\Debug\DUTClincSystemMVC.pdb
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\EntityFramework.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\EntityFramework.xml
+C:\Users\angel\OneDrive\Desktop\DUT Clinic\DUTClincSystemMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\DUTClincSystemMVC.dll.config
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\DUTClincSystemMVC.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\DUTClincSystemMVC.pdb
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\csc.exe
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\csc.exe.config
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\csc.rsp
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\csi.exe
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\csi.exe.config
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\csi.rsp
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.AppContext.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Console.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\vbc.exe
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\vbc.exe.config
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\vbc.rsp
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\Antlr3.Runtime.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\EntityFramework.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\Newtonsoft.Json.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.Helpers.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.Mvc.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.Optimization.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.Razor.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.WebPages.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\WebGrease.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\EntityFramework.xml
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.Helpers.xml
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.Mvc.xml
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.Optimization.xml
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.Razor.xml
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.WebPages.xml
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\Newtonsoft.Json.xml
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\Antlr3.Runtime.pdb
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\obj\Debug\DUTClincSystemMVC.csproj.AssemblyReference.cache
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\obj\Debug\DUTClincSystemMVC.csproj.CoreCompileInputs.cache
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\obj\Debug\DUTClinc.D3C313FE.Up2Date
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\obj\Debug\DUTClincSystemMVC.dll
+C:\Users\msizi\Downloads\DUTClincSystemMVC\DUTClincSystemMVC\obj\Debug\DUTClincSystemMVC.pdb
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\DUTClincSystemMVC.dll.config
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\DUTClincSystemMVC.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\DUTClincSystemMVC.pdb
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\csc.exe
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\csc.exe.config
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\csc.rsp
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\csi.exe
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\csi.exe.config
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\csi.rsp
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.AppContext.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Console.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\vbc.exe
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\vbc.exe.config
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\vbc.rsp
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\Antlr3.Runtime.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\EntityFramework.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\Newtonsoft.Json.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.Helpers.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.Mvc.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.Optimization.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.Razor.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.WebPages.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\WebGrease.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\EntityFramework.xml
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.Helpers.xml
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.Mvc.xml
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.Optimization.xml
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.Razor.xml
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.WebPages.xml
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\Newtonsoft.Json.xml
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\Antlr3.Runtime.pdb
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\obj\Debug\DUTClincSystemMVC.csproj.AssemblyReference.cache
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\obj\Debug\DUTClincSystemMVC.csproj.CoreCompileInputs.cache
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\obj\Debug\DUTClinc.D3C313FE.Up2Date
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\obj\Debug\DUTClincSystemMVC.dll
+C:\Users\angel\Music\New folder\DUTClincSystemMVC\DUTClincSystemMVC\obj\Debug\DUTClincSystemMVC.pdb
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\DUTClincSystemMVC.dll.config
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\DUTClincSystemMVC.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\DUTClincSystemMVC.pdb
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\csc.exe
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\csc.exe.config
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\csc.rsp
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\csi.exe
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\csi.exe.config
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\csi.rsp
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.AppContext.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.Console.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\vbc.exe
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\vbc.exe.config
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\vbc.rsp
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\Antlr3.Runtime.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\EntityFramework.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\Newtonsoft.Json.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\System.Web.Helpers.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\System.Web.Mvc.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\System.Web.Optimization.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\System.Web.Razor.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\System.Web.WebPages.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\WebGrease.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\EntityFramework.xml
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\System.Web.Helpers.xml
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\System.Web.Mvc.xml
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\System.Web.Optimization.xml
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\System.Web.Razor.xml
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\System.Web.WebPages.xml
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\Newtonsoft.Json.xml
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\Antlr3.Runtime.pdb
+C:\Users\angel\Videos\DUTClincSystemMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\angel\Videos\DUTClincSystemMVC\obj\Debug\DUTClincSystemMVC.csproj.AssemblyReference.cache
+C:\Users\angel\Videos\DUTClincSystemMVC\obj\Debug\DUTClincSystemMVC.csproj.CoreCompileInputs.cache
+C:\Users\angel\Videos\DUTClincSystemMVC\obj\Debug\DUTClinc.D3C313FE.Up2Date
+C:\Users\angel\Videos\DUTClincSystemMVC\obj\Debug\DUTClincSystemMVC.dll
+C:\Users\angel\Videos\DUTClincSystemMVC\obj\Debug\DUTClincSystemMVC.pdb
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\DUTClincSystemMVC.dll.config
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\DUTClincSystemMVC.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\DUTClincSystemMVC.pdb
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\csc.exe
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\csc.exe.config
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\csc.rsp
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\csi.exe
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\csi.exe.config
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\csi.rsp
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.AppContext.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.Console.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\vbc.exe
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\vbc.exe.config
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\vbc.rsp
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\Antlr3.Runtime.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\EntityFramework.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\Newtonsoft.Json.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\System.Web.Helpers.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\System.Web.Mvc.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\System.Web.Optimization.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\System.Web.Razor.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\System.Web.WebPages.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\WebGrease.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\EntityFramework.xml
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\System.Web.Helpers.xml
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\System.Web.Mvc.xml
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\System.Web.Optimization.xml
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\System.Web.Razor.xml
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\System.Web.WebPages.xml
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\Newtonsoft.Json.xml
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\Antlr3.Runtime.pdb
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\obj\Debug\DUTClincSystemMVC.csproj.AssemblyReference.cache
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\obj\Debug\DUTClincSystemMVC.csproj.CoreCompileInputs.cache
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\obj\Debug\DUTClinc.D3C313FE.Up2Date
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\obj\Debug\DUTClincSystemMVC.dll
+C:\Users\ntokozo\Downloads\MEDICODE\MEDICODE\DUTClincSystemMVC\obj\Debug\DUTClincSystemMVC.pdb

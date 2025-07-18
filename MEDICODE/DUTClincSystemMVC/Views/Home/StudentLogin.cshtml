@@ -1,0 +1,115 @@
+﻿@model DUTClincSystemMVC.Models.Student
+
+@{
+    ViewBag.Title = "StudentLogin";
+}
+
+<style>
+    /* Center the login form */
+    .login-form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    /* Style the login button */
+    .login-button {
+        background-color: #b09ae6; /* Lilac color */
+        color: #ffffff; /* White text color */
+        border: none;
+        border-radius: 20px; /* Round button */
+        padding: 10px 20px; /* Larger padding */
+        font-size: 18px; /* Larger font size */
+        cursor: pointer;
+        transition: background-color 0.3s ease; /* Smooth transition */
+        margin-top: 20px; /* Add some top margin */
+    }
+
+        .login-button:hover {
+            background-color: #927cbd; /* Darker lilac color on hover */
+        }
+
+    /* Style the form controls */
+    .form-control {
+        border: none;
+        background-color: transparent; /* Make background transparent */
+        border-bottom: 2px solid #b09ae6; /* Lilac color bottom border */
+        margin-bottom: 20px; /* Add more bottom margin */
+        padding: 10px; /* Larger padding */
+        width: 250px; /* Increased width */
+        text-align: center; /* Center align text */
+        font-size: 16px; /* Larger font size */
+    }
+
+    .control-label {
+        font-size: 16px;
+        text-align: left; /* Align text to the left */
+        display: block; /* Ensure label is a block element */
+        margin-bottom: 10px; /* Add margin below labels */
+    }
+
+    .form-horizontal {
+        width: 100%;
+        max-width: 400px;
+        margin: 0 auto; /* Center align the form horizontally */
+    }
+
+    h2 {
+        text-align: center;
+        font-family: Arial, sans-serif;
+        font-size: 24px; /* Increase heading size */
+        margin-bottom: 40px; /* Increase bottom margin for more space */
+    }
+
+    .text-danger {
+        text-align: center;
+    }
+
+    p {
+        text-align: center;
+    }
+
+    .form-group {
+        margin-bottom: 30px; /* Increase bottom margin for form groups */
+    }
+</style>
+
+<h2>Login</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal login-form">
+        <div class="form-group">
+            @Html.LabelFor(model => model.EmailAddress, htmlAttributes: new { @class = "control-label col-md-12" }) <!-- Centered label -->
+            <div class="col-md-12">
+                @Html.EditorFor(model => model.EmailAddress, new { htmlAttributes = new { @class = "form-control", type = "email", placeholder = "Email Address" } })
+                @Html.ValidationMessageFor(model => model.EmailAddress, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.StudentPassword, htmlAttributes: new { @class = "control-label col-md-12" }) <!-- Centered label -->
+            <div class="col-md-12">
+                @Html.EditorFor(model => model.StudentPassword, new { htmlAttributes = new { @class = "form-control", type = "password", placeholder = "Password" } })
+                @Html.ValidationMessageFor(model => model.StudentPassword, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        @if (ViewBag.ErrorMessage != null)
+        {
+            <p style="color: red">@ViewBag.ErrorMessage</p>
+        }
+
+        <div class="form-group">
+            <div class="col-md-12">
+                <input type="submit" value="Login" class="login-button" />
+            </div>
+        </div>
+    </div>
+
+    <p>Don't have an account? <a href="/Home/StudentSignUp">sign up</a> instead</p>
+}
+

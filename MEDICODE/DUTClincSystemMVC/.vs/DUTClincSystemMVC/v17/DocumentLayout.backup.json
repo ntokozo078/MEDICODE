@@ -1,0 +1,470 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Models\\DoctorSchedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DoctorSchedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Models\\DUTClinicContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DUTClinicContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\BookAppointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\BookAppointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Shared\\_LayoutAdmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_LayoutAdmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\StudentSignUp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\StudentSignUp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\StudentLogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\StudentLogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Doctors\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Doctors\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Doctors\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Doctors\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\StudentAppointments\\ViewAppointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\StudentAppointments\\ViewAppointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Models\\StudentAppointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\StudentAppointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Controllers\\DoctorsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\DoctorsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Controllers\\StudentAppointmentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\StudentAppointmentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\ViewAppointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\ViewAppointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\MyAppointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\MyAppointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\AppointmentBooked.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\AppointmentBooked.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Models\\Doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Shared\\_Layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_Layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Admin\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Admin\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Admin\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Admin\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Models\\DoctorSchedule.cs",
+              "RelativeDocumentMoniker": "Models\\DoctorSchedule.cs",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Models\\DoctorSchedule.cs",
+              "RelativeToolTip": "Models\\DoctorSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T21:55:25.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:12:28.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentSignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\StudentSignUp.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\StudentSignUp.cshtml",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\StudentSignUp.cshtml",
+              "RelativeToolTip": "Views\\Home\\StudentSignUp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:54:04.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\StudentLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\StudentLogin.cshtml",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\StudentLogin.cshtml",
+              "RelativeToolTip": "Views\\Home\\StudentLogin.cshtml",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAuwGUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:46:33.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Doctors\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:12:23.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Doctors\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctors\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Doctors\\Login.cshtml",
+              "RelativeToolTip": "Views\\Doctors\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:11:48.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewAppointments.cshtml",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\StudentAppointments\\ViewAppointments.cshtml",
+              "RelativeDocumentMoniker": "Views\\StudentAppointments\\ViewAppointments.cshtml",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\StudentAppointments\\ViewAppointments.cshtml",
+              "RelativeToolTip": "Views\\StudentAppointments\\ViewAppointments.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T09:29:31.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T22:39:28.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAuwH0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:13:24.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookAppointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\BookAppointment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\BookAppointment.cshtml",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\BookAppointment.cshtml",
+              "RelativeToolTip": "Views\\Home\\BookAppointment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:35:42.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DUTClinicContext.cs",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Models\\DUTClinicContext.cs",
+              "RelativeDocumentMoniker": "Models\\DUTClinicContext.cs",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Models\\DUTClinicContext.cs",
+              "RelativeToolTip": "Models\\DUTClinicContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:50:23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Models\\StudentAppointment.cs",
+              "RelativeDocumentMoniker": "Models\\StudentAppointment.cs",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Models\\StudentAppointment.cs",
+              "RelativeToolTip": "Models\\StudentAppointment.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:18:14.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:04:19.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:04:14.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:03:52.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentAppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Controllers\\StudentAppointmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentAppointmentsController.cs",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Controllers\\StudentAppointmentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentAppointmentsController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:03:39.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewAppointments.cshtml",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\ViewAppointments.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ViewAppointments.cshtml",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\ViewAppointments.cshtml",
+              "RelativeToolTip": "Views\\Home\\ViewAppointments.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T08:53:02.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyAppointments.cshtml",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\MyAppointments.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\MyAppointments.cshtml",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\MyAppointments.cshtml",
+              "RelativeToolTip": "Views\\Home\\MyAppointments.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T08:53:24.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppointmentBooked.cshtml",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\AppointmentBooked.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AppointmentBooked.cshtml",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\AppointmentBooked.cshtml",
+              "RelativeToolTip": "Views\\Home\\AppointmentBooked.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T08:53:19.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T04:37:47.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:09:41.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:09:34.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAD8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T23:08:25.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T23:08:22.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T23:06:47.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAuwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T23:06:41.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T22:31:43.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ntokozo\\Downloads\\MEDICODE\\MEDICODE\\DUTClincSystemMVC\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:35:55.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

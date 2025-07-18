@@ -1,0 +1,158 @@
+﻿@model IEnumerable<DUTClincSystemMVC.Models.StudentAppointment>
+
+@{
+    ViewBag.Title = "Appointments";
+}
+
+<style>
+    /* Table styling */
+    table {
+        margin-top: 40px;
+        width: 100%;
+        border-collapse: collapse;
+        border-radius: 10px;
+        overflow: hidden; /* Ensure the rounded borders show */
+        text-align: left;
+    }
+
+    table, th, td {
+        border: 2px solid black;
+    }
+
+    th, td {
+        padding: 10px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    /* Styling for the cancel button */
+    .cancel-button {
+        background-color: #e74c3c; /* Light red color */
+        border: none;
+        color: white;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 14px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 10px; /* Rounded button */
+        transition: background-color 0.3s ease;
+    }
+
+        .cancel-button:hover {
+            background-color: #c0392b; /* Darker red on hover */
+        }
+
+    /* General styling */
+    h2 {
+        text-align: center;
+        font-family: Arial, sans-serif;
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .btn-new-appointment {
+        background-color: #b09ae6; /* Lilac color */
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        font-size: 16px;
+        border-radius: 10px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        margin: 20px auto;
+        display: block;
+    }
+
+        .btn-new-appointment:hover {
+            background-color: #927cbd; /* Darker lilac color on hover */
+        }
+
+    .form-horizontal {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    label.control-label {
+        text-align: left;
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    .form-control {
+        width: 100%;
+        padding: 10px;
+        box-sizing: border-box;
+        font-size: 14px;
+    }
+</style>
+
+<h2>Manage Your Appointments</h2>
+
+<a href="/Home/BookAppointment">
+    <button class="btn-new-appointment">Make New Appointment</button>
+</a>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.AppointmentID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StudentNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Time)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Campuses)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Reason)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AppointmentID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentNumber)
+            </td>
+            <td>
+                @String.Format("{0:MM/dd/yyyy}", item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Time)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Campuses)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Reason)
+            </td>
+            <td>
+                <a href="/Home/CancelAppointment/@item.AppointmentID">
+                    <button class="cancel-button">Cancel Appointment</button>
+                </a>
+            </td>
+        </tr>
+    }
+</table>
+
