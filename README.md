@@ -2,7 +2,7 @@
 
 An ASP.NET web application for managing medical appointments, built with **C#**, **MySQL**, and **Entity Framework**.
 
-![System Preview](screenshot.png) *(Add a screenshot of your UI here)*
+
 
 ## ✨ Key Features
 - **Patient Portal**  
